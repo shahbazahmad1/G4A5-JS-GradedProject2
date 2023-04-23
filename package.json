@@ -1,0 +1,12 @@
+{
+  "name": "g4a5_js_gradedproject2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shahbaz Ahmad",
+  "license": "ISC"
+}
